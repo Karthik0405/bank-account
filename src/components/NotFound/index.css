@@ -1,0 +1,24 @@
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.not-found-img {
+  width: 500px;
+}
+
+.page-found {
+  color: #183b56;
+  font-family: Roboto;
+  font-size: 38px;
+  font-weight: 600;
+}
+
+.page-found-family {
+  color: #183b56;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+}
